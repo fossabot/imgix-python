@@ -1,5 +1,6 @@
 <!-- ix-docs-ignore -->
 ![imgix logo](https://assets.imgix.net/sdk-imgix-logo.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-python.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-python?ref=badge_shield)
 
 `imgix-python` is a client library for generating image URLs with [imgix](https://www.imgix.com/).
 
@@ -291,3 +292,7 @@ tox
 ```
 
 If you have cloned this repo or downloaded it locally, you can also run `python -m doctest -v README.md` to test the examples in this readme.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimgix%2Fimgix-python.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimgix%2Fimgix-python?ref=badge_large)
